@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "https://9322AF71AB44FEF22B10619C5392B1FA.gr7.eu-central-1.eks.amazonaws.com"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
